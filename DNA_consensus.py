@@ -1,3 +1,6 @@
+#takes strings of DNA in fasta format
+#outputs consensus string and profile matrix for all strings
+
 from Bio import SeqIO
 
 def get_fasta_records(file):
