@@ -40,7 +40,6 @@ def consensus(ACGT_count):
 #(at that position)
 #add key with highest value to consensus list
 #moves to the next position
-   position=0
    count=0
    consensus_seq=''
    seq_length=len(ACGT_count['A'])
