@@ -1,3 +1,8 @@
+#http://rosalind.info/problems/hamm/
+#calculates hamming distance from two DNA sequences
+#http://en.wikipedia.org/wiki/Hamming_distance
+
+
 #len_s1=len(s1)
 #len_s2=len(s2)
 #print(s2[2])
