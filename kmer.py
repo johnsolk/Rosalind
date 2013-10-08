@@ -1,7 +1,6 @@
 #http://rosalind.info/problems/lexf/
 import itertools
 
-import itertools
 s="A K M G"
 n=4
 g=s.replace(" ","")
