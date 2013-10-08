@@ -1,3 +1,4 @@
+#http://rosalind.info/problems/cons/
 #takes strings of DNA in fasta format
 #outputs consensus string and profile matrix for all strings
 
